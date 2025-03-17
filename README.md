@@ -66,9 +66,16 @@ Proceso
 ![image](https://github.com/user-attachments/assets/51d3e4d6-ff09-4328-ae13-f41325b342e6)
 
 * Entrenamiento del modelo
+![image](https://github.com/user-attachments/assets/c9f59172-70be-4a16-83b4-323077a1a2b4)
+![image](https://github.com/user-attachments/assets/e63b5b7e-091d-45cf-9c0a-48b44fb113ea)
+![image](https://github.com/user-attachments/assets/2faff578-bd8e-4545-bddc-3db37af6a75e)
 
 * Guardado de mejor modelo
+![image](https://github.com/user-attachments/assets/79183110-e6d8-4c65-b2da-26f876f02e02)
+![image](https://github.com/user-attachments/assets/2526a68e-1aad-4254-8b6f-0c23c1a038c3)
+
 * API
+![image](https://github.com/user-attachments/assets/d78a817f-b327-4b6b-b9ea-51e63ee1f242)
 
 Conclusiones
 
