@@ -1,0 +1,6 @@
+jupyterlab
+mlflow
+boto3
+psycopg2
+scikit-learn
+pandas
