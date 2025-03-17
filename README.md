@@ -45,8 +45,6 @@ Para la implementación, se utilizó una máquina virtual con Ubuntu 20.04. Se c
 
 * PostgreSQL
 
-imagen base de datos
-
 CREATE USER mlflow WITH PASSWORD 'mlflow';
 CREATE DATABASE mlflow_db OWNER mlflow;
 ALTER ROLE mlflow SET client_encoding TO 'utf8';
@@ -62,8 +60,13 @@ docker run -p 9000:9000 -p 9001:9001 --name minio \
 Proceso
 
 * Carga de datos
+![image](https://github.com/user-attachments/assets/1e7aadae-1f78-4ffd-b236-5826c3de7c7c)
+
 * Limpieza y guardado en base de datos
+![image](https://github.com/user-attachments/assets/51d3e4d6-ff09-4328-ae13-f41325b342e6)
+
 * Entrenamiento del modelo
+
 * Guardado de mejor modelo
 * API
 
