@@ -76,6 +76,8 @@ Proceso
 
 * API
 ![image](https://github.com/user-attachments/assets/d78a817f-b327-4b6b-b9ea-51e63ee1f242)
+![image](https://github.com/user-attachments/assets/2479a8bd-dd68-4ad4-b085-4ce7b4e38a5d)
+
 
 Conclusiones
 
